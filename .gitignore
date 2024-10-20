@@ -165,4 +165,5 @@ cython_debug/
 model.pt
 data/
 models/
+raytune/
 *_copy.ipynb
