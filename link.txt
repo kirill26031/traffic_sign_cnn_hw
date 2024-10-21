@@ -1,1 +1,0 @@
-https://github.com/kirill26031/traffic_sign_cnn_hw
